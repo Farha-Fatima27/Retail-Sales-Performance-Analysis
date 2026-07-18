@@ -68,3 +68,7 @@ The dataset contains 1,000 retail transactions with the following fields:
 - Retail_Sales_Performance_Dashboard.twbx
 - Retail_Sales_Dashboard.png
 - Retail_Sales_Dataset.csv
+
+## 📷 Dashboard Preview
+
+![Retail Sales Performance Dashboard](Retail_Sales_Performance_Dashboard.png)
